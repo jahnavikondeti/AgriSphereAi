@@ -1,4 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
+import Layout from "./pages/Layout.jsx";
 
 function Layout() {
   return (
